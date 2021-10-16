@@ -5,6 +5,9 @@
     <title>Title</title>
 </head>
 <body>
-Lara_0818_u2
+<h2>Lara_0818_u2</h2>
+<p>
+    home路由串接HomeController方法後，回傳View
+</p>
 </body>
 </html>
